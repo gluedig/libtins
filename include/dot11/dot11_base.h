@@ -144,7 +144,9 @@ public:
         ATIM = 9,
         DISASSOC = 10,
         AUTH = 11,
-        DEAUTH = 12
+        DEAUTH = 12,
+        ACTION = 13,
+        ACTION_NACK = 14
     };
 
     /**
