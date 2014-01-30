@@ -105,6 +105,7 @@ namespace Tins {
             DOT11_REASSOC_RESP,
             DOT11_RTS,
             DOT11_QOS_DATA,
+            DOT11_ACTION,
             LLC,
             SNAP,
             IP,
